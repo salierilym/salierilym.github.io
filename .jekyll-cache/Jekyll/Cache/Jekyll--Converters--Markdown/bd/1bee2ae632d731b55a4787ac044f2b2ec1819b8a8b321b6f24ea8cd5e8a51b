@@ -1,0 +1,18 @@
+I"�<h1 id="个人博客撰写方法"><strong><center>个人博客撰写方法</center></strong></h1>
+<hr />
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>没想到过了近半年才想起来更新博客。之前觉得写博客是一件很消耗时间的事情，不如将这些时间用来学习更多的知识，但在这半年的学习中我也认识到了撰写博客是一件很有利于个人学习的习惯，只有能够输出知识才说明你真正掌握了它  &lt;br/&gt;
+而且长期只输入不输出很容易忘却，就比如撰写博客的方法，我又重新花了半小时才捡起来，因此在此稍加记录，作为一个开端。
+</code></pre></div></div>
+
+<p><strong>本地修改：</strong> 在_posts目录下进行博文编辑，jekyll server启动服务后可以实时在浏览器查看效果，本地博客新增或修改完可以进行进一步推送。</p>
+
+<p><strong>推送到远程库：</strong></p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git add .
+$ git commit -m "statement"
+$ git push origin master" 
+</code></pre></div></div>
+
+<p>ok, 接着学习去辽！
+ <br /><br /></p>
+
+:ET
